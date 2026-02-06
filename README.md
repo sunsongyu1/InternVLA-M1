@@ -130,6 +130,13 @@ print(normalized_actions.shape, type(normalized_actions))
 </details>
 
 
+## 📖 Model Architecture Documentation
+
+For a detailed explanation of the InternVLA-M1 architecture from input to output, including all sub-models and processing steps:
+
+* **中文版本 (Chinese Version)**: [模型架构解析](/docs/MODEL_ARCHITECTURE_CN.md)
+* **English Version**: [Model Architecture Analysis](/docs/MODEL_ARCHITECTURE_EN.md)
+
 ## 📘 Examples
 
 We provide several end-to-end examples for reference:
